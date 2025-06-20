@@ -24,6 +24,21 @@ Automated Web Server Deployment using AWS CloudFormation
   2.At the bottom, you'll see a checkbox:
   3.Click "Submit"
 
+## Step 5:  View the Output (Public IP)
+  1.Click on the stack name WebServerStack
+  2.Go to the Outputs tab
+  3.You’ll see a key called:" Piblic IP"
+  4.Copy the IP address shown
+
+## Step 6:Open the Website in Browser
+  1.Open a new tab in your browser
+  2.Paste the IP like this: For example: http://13.235.45.123
+  3.You should be able to see output " Hello from CloudFormation "
+
+
+
+
+
 
      
 
