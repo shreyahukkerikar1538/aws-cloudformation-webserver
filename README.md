@@ -13,6 +13,13 @@ Automated Web Server Deployment using AWS CloudFormation
 ## Step 2: Specify Stack Details
   1. Stack name → Enter a name like: WebserverStack
   2. Click" Next "
+
+## Step 3: Configure Stack Options
+  1. This page lets you add tags, permissions, notifications, etc.
+  2. Leave everything as default
+  3. Click the “Next” button
+
+
      
 
 
