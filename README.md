@@ -10,4 +10,11 @@ Automated Web Server Deployment using AWS CloudFormation
 
 ## Added Screenshots
 
+## Step 2: Specify Stack Details
+  1. Stack name → Enter a name like: WebserverStack
+  2. Click" Next "
+     
+
+
+
 
