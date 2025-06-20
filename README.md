@@ -19,6 +19,11 @@ Automated Web Server Deployment using AWS CloudFormation
   2. Leave everything as default
   3. Click the “Next” button
 
+## Step 4 : Review and create stack
+  1.Scroll down and review the settings (you don’t need to change anything).
+  2.At the bottom, you'll see a checkbox:
+  3.Click "Submit"
+
 
      
 
