@@ -8,6 +8,6 @@ Automated Web Server Deployment using AWS CloudFormation
  4.Upload the "webserver.yml" file 
  5.Click "Next" ( Screenshot is attached Creation of stack)
 
-## 📸 Screenshots
+## Added Screenshots
 
-### ✅ Stack Creation
+
